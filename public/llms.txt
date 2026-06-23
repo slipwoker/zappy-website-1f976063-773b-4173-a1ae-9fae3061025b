@@ -1,0 +1,109 @@
+# בול בזמן — Generative Engine Optimization Map
+
+> Bol Ba'Zman is a trusted watch repair and jewelry shop located in Petah Tikva, run by a skilled and warmhearted expert named Edward (Adi). The business is known for its professional craftsmanship, fair pricing, and exceptional personal service — including offering free watch repairs to IDF soldiers during wartime. With over 14 reviews averaging 8.1, the shop has a loyal community following and a reputation for going above and beyond for customers. The brand blends old-school artisan expertise with genuine human warmth and local community values.
+
+---
+
+## Pages
+
+### בית
+https://-1f976063.zappy5.app
+מחפשים תיקון תכשיטים או שעון בפתח תקווה? אצל אדוארד בבול בזמן תקבלו אומנות מקצועית, מחירים הוגנים ושירות אישי חם. תיקונים חינם לחיילי צה״ל — הצטרפו למשפחה שלנו עוד היום!
+
+### שירותים
+https://-1f976063.zappy5.app/services
+תיקוני שעונים מכל הסוגים, שיבוץ אבני חן, הלחמות עדינות ושיקום תכשיטי זהב וכסף. אדוארד מביא דיוק של אומן ולב חם לכל עבודה. גלו את השירותים שיחזירו לכם חיוך — ואת הזמן.
+
+### אודות
+https://-1f976063.zappy5.app/about
+אדוארד (עדי) הוא לא סתם צורף — הוא אמן עם נשמה שמאמין בשירות בגובה העיניים, יושרה ואהבה לקהילה. בואו לקרוא למה תיקון שעון אצלנו מרגיש כמו ביקור אצל חבר ותיק בפתח תקווה.
+
+### חוות דעת
+https://-1f976063.zappy5.app/reviews
+״אדוארד תיקן לי שעון בחינם כי הייתי במילואים״ — זה סוג הסיפורים שתמצאו כאן. כנסו לקרוא חוות דעת אמיתיות על תיקוני תכשיטים ושעונים בפתח תקווה, ותבינו למה חוזרים אלינו שוב ושוב.
+
+### צור קשר
+https://-1f976063.zappy5.app/contact
+רוצים להחזיר לחיים תכשיט ישן או שעון אהוב? השאירו פרטים או קפצו אלינו בפתח תקווה לשיחת אבחון חינם. אדוארד מחכה לכם עם קפה, חיוך ופתרון מקצועי — צרו קשר עכשיו!
+
+### Products
+https://-1f976063.zappy5.app/products
+המוצרים שלנו - בול בזמן
+
+### Cart
+https://-1f976063.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-1f976063.zappy5.app/checkout
+תשלום
+
+### Login
+https://-1f976063.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-1f976063.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-1f976063.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-1f976063.zappy5.app/product/:slug
+פרטי המוצר - בול בזמן
+
+### Category
+https://-1f976063.zappy5.app/category/:slug
+מוצרים - בול בזמן
+
+### תודה רבה | ההודעה התקבלה בהצלחה
+https://-1f976063.zappy5.app/thank-you
+תודה שפנית אלינו בנושא תיקון תכשיטים ושעונים. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1f976063.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1f976063.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1f976063.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בול בזמן
+Bol Ba'Zman is a trusted watch repair and jewelry shop located in Petah Tikva, run by a skilled and warmhearted expert named Edward (Adi). The business is known for its professional craftsmanship, fair pricing, and exceptional personal service — including offering free watch repairs to IDF soldiers during wartime. With over 14 reviews averaging 8.1, the shop has a loyal community following and a reputation for going above and beyond for customers. The brand blends old-school artisan expertise with genuine human warmth and local community values.
+
+## Target Audience
+- תושבי פתח תקווה והסביבה, חיילים, אנשים שצריכים תיקון שעונים ורכישת תכשיטים
+- תושבי פתח תקווה והסביבה
+- חיילים וקצינים
+- אספני שעונים
+
+## Industry
+Jewelry & Watch Repair
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-1f976063.zappy5.app/sitemap.xml
+- Robots: https://-1f976063.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-1f976063.zappy5.app/llms-full.txt
+- Products (JSON): https://-1f976063.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-1f976063.zappy5.app/product-feed.xml
