@@ -307,6 +307,31 @@ Add your first product in Store Manager to see it appear here.
 
 
 
+טקסט כאן
+
+
+טקסט כאן
+
+
+
+
+
+
+
+עומר מ.
+טקסט כאן
+
+
+טקסט כאן
+טקסט כאן
+טקסט כאן
+טקסט כאן
+טקסט כאן
+
+
+
+
+
 "
 
 
@@ -347,6 +372,7 @@ Add your first product in Store Manager to see it appear here.
 
 שירות מקצועי ואדיב, תיקנו לי שעון יוקרה במחיר הוגן תוך זמן קצר. ממליץ בחום!
 
+
 — יוסי ד.
 
 
@@ -361,6 +387,7 @@ Add your first product in Store Manager to see it appear here.
 
 הגעתי עם תכשיט שבור, אדוארד החזיר אותו כמו חדש. מקצוען אמיתי עם יחס אישי וחם.
 
+
 — מיכל ל.
 
 
@@ -374,6 +401,7 @@ Add your first product in Store Manager to see it appear here.
 
 
 מחירים הוגנים, שירות מהיר ואמין. כבר שנים שאני סומך רק עליהם.
+
 
 — אבי ש.
 
