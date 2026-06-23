@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-1f976063.zappy5.app
+https://example.com
 מחפשים תיקון תכשיטים או שעון בפתח תקווה? אצל אדוארד בבול בזמן תקבלו אומנות מקצועית, מחירים הוגנים ושירות אישי חם. תיקונים חינם לחיילי צה״ל — הצטרפו למשפחה שלנו עוד היום!
 
 ### שירותים
-https://-1f976063.zappy5.app/services
+https://example.com/services
 תיקוני שעונים מכל הסוגים, שיבוץ אבני חן, הלחמות עדינות ושיקום תכשיטי זהב וכסף. אדוארד מביא דיוק של אומן ולב חם לכל עבודה. גלו את השירותים שיחזירו לכם חיוך — ואת הזמן.
 
 ### אודות
-https://-1f976063.zappy5.app/about
+https://example.com/about
 אדוארד (עדי) הוא לא סתם צורף — הוא אמן עם נשמה שמאמין בשירות בגובה העיניים, יושרה ואהבה לקהילה. בואו לקרוא למה תיקון שעון אצלנו מרגיש כמו ביקור אצל חבר ותיק בפתח תקווה.
 
 ### חוות דעת
-https://-1f976063.zappy5.app/reviews
+https://example.com/reviews
 ״אדוארד תיקן לי שעון בחינם כי הייתי במילואים״ — זה סוג הסיפורים שתמצאו כאן. כנסו לקרוא חוות דעת אמיתיות על תיקוני תכשיטים ושעונים בפתח תקווה, ותבינו למה חוזרים אלינו שוב ושוב.
 
 ### צור קשר
-https://-1f976063.zappy5.app/contact
+https://example.com/contact
 רוצים להחזיר לחיים תכשיט ישן או שעון אהוב? השאירו פרטים או קפצו אלינו בפתח תקווה לשיחת אבחון חינם. אדוארד מחכה לכם עם קפה, חיוך ופתרון מקצועי — צרו קשר עכשיו!
 
 ### Products
-https://-1f976063.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - בול בזמן
 
 ### Cart
-https://-1f976063.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-1f976063.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-1f976063.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-1f976063.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-1f976063.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-1f976063.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - בול בזמן
 
 ### Category
-https://-1f976063.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - בול בזמן
 
 ### תודה רבה | ההודעה התקבלה בהצלחה
-https://-1f976063.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו בנושא תיקון תכשיטים ושעונים. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-1f976063.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-1f976063.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-1f976063.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Jewelry & Watch Repair
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-1f976063.zappy5.app/sitemap.xml
-- Robots: https://-1f976063.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-1f976063.zappy5.app/llms-full.txt
-- Products (JSON): https://-1f976063.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-1f976063.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
