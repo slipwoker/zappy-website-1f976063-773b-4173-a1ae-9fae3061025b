@@ -1,8 +1,53 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T00:11:13.220Z",
+  "generated_at": "2026-06-24T13:18:54.303Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 2,
+  "products": [
+    {
+      "id": "eddde61d-3185-4647-b98c-5a81ae9d4a13",
+      "slug": "shavn-emporio-armani-mkvry-1exj9i",
+      "name": "שעון EMPORIO ARMANI מקורי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 600,
+      "base_price": 600,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782306770768-p8su98.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shavn-emporio-armani-mkvry-1exj9i",
+      "categories": [],
+      "updated_at": "2026-06-24T13:14:02.648Z"
+    },
+    {
+      "id": "6f4a23c9-7d0c-40c9-b77e-73682e8b061c",
+      "slug": "shavn-emporio-armani-mkvry-bevz16",
+      "name": "  שעון EMPORIO ARMANI מקורי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 900,
+      "base_price": 900,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782260246315-ut22c5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shavn-emporio-armani-mkvry-bevz16",
+      "categories": [],
+      "updated_at": "2026-06-24T13:12:15.122Z"
+    }
+  ]
 }

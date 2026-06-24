@@ -4,6 +4,30 @@
     <title>בול בזמן</title>
     <link>https://example.com</link>
     <description>Product feed for בול בזמן</description>
-    <lastBuildDate>Wed, 24 Jun 2026 00:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:18:54 GMT</lastBuildDate>
+    <item>
+      <g:id>eddde61d-3185-4647-b98c-5a81ae9d4a13</g:id>
+      <g:title>שעון EMPORIO ARMANI מקורי</g:title>
+      <g:description>שעון EMPORIO ARMANI מקורי</g:description>
+      <g:link>https://example.com/product/shavn-emporio-armani-mkvry-1exj9i</g:link>
+      <g:image_link>https://example.com/assets/product-1782306770768-p8su98.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>600.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>בול בזמן</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>6f4a23c9-7d0c-40c9-b77e-73682e8b061c</g:id>
+      <g:title>  שעון EMPORIO ARMANI מקורי</g:title>
+      <g:description>שעון EMPORIO ARMANI מקורי</g:description>
+      <g:link>https://example.com/product/shavn-emporio-armani-mkvry-bevz16</g:link>
+      <g:image_link>https://example.com/assets/product-1782260246315-ut22c5.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>900.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>בול בזמן</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
